@@ -1,32 +1,28 @@
 # Site
-repository: sproogen/resume-theme
+repository: matrixvampire/matrixvampire.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Basanta Raj Onta
+title: Software Engineer/IT Specialist
+email: basanta.onta@gmail.com
+# website: https://matrixvampire.github.io/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+twitter_username: matrixvampire
+github_username:  matrixvampire
+# facebook_username: basanta.onta
+# instagram_username: basanta.onta
+linkedin_username: basantarajonta
+#youtube_username: matrixVampire
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  My name is Basanta. I am from Nepal, currently residing and working in Thailand. I am a Software Engineer. I am working as IT Specialist/Development Team Lead with Ascend Money. I am helping Ascend Money with their Equator Platform, payment and wallet platform for their regioanl countries. Right now, this platform is integreted with TrueMoney in Vietnam, Myanmmar, Cambodia, Philipins, and Indonesia. In capacity as Development Team Lead, I lead a team of developers helping them to achieve their personal and business goals. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Java</mark> and <mark>Spring</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +36,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Hiking
+   - Reading
+   - Watching new TV series and movies
 
 # Footer
 footer_show_references: true

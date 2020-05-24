@@ -20,7 +20,7 @@ linkedin_username: basantarajonta
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Basanta. I am from Nepal, currently residing and working in Thailand. I am a Software Engineer. I am working as IT Specialist/Development Team Lead with Ascend Money. I am helping Ascend Money with their Equator Platform, payment and wallet platform for their regioanl countries. Right now, this platform is integreted with TrueMoney in Vietnam, Myanmmar, Cambodia, Philipins, and Indonesia. In capacity as Development Team Lead, I lead a team of developers helping them to achieve their personal and business goals. 
+  Hi, I am Basanta from Nepal, currently residing and working in Thailand. I am associated with Ascend Money as IT Specialist/Development Team Lead working on Equator Platform - payment and wallet platform for their regioanl countries. The platform is successfully integreted with TrueMoney in Vietnam, Myanmmar, Cambodia, and before end of 2020 in Philipins and Indonesia. In capacity as Development Team Lead, I lead a team of engineers - dev and qa and helping them to achieve their personal and business goals. 
 
   I am most skilled in: <mark>Java</mark> and <mark>Spring</mark>
 
@@ -39,7 +39,8 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software engineering some of my other interests and hobbies are:
    - Hiking
    - Reading
-   - Watching new TV series and movies
+   - Cooking + Eating
+   - Watching TV series and movies
 
 # Footer
 footer_show_references: true
